@@ -2,3 +2,5 @@ glove-python-binary
 gensim
 scikit-learn
 nltk
+pandas
+torch
