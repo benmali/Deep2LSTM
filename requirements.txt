@@ -1,6 +1,8 @@
-glove-python-binary
+glove_python_binary
 gensim
 scikit-learn
 nltk
 pandas
 torch
+Corpus
+Cython==0.29.23
