@@ -5,3 +5,4 @@ pandas
 torch
 Corpus
 Cython==0.29.23
+glove-python-binary
